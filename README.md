@@ -11,16 +11,16 @@ The terms used in this Privacy Policy have the same meanings as our Terms and Co
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Phone Number, Country, and Contact name and phone numbers. The information collected allows the sending of messages to contacts that also use the Hallo app.
 
-The app does use third party services that may collect information used to identify you.
+The app uses third party services that may collect information about app statistics (such as any errors or crashes that happen within the app), but this data does not contain any personal user information.
 
-Link to privacy policy of third party service providers used by the app
+Link to privacy policy of third party service providers used by the app:
 
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 
 **Log Data**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. This data does not contain any personally identifiable information.
 
 **Service Providers**
 
